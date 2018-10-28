@@ -1,0 +1,23 @@
+{
+  "name": "jsexpress",
+  "version": "1.0.0",
+  "description": "express project",
+  "main": "jsex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/67millwood/jsexpress.git"
+  },
+  "author": "km",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/67millwood/jsexpress/issues"
+  },
+  "homepage": "https://github.com/67millwood/jsexpress#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
